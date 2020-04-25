@@ -3,7 +3,7 @@
 
 ![Program](/object_detection/PICTURE/img11_35_01PM_April_25_2020.png)
 
-[![Build Status](https://github.com/lienghongky/TensorflowObjectDetector?branch=master)](https://github.com/lienghongky/TensorflowObjectDetector)
+[pyversion-button]: https://img.shields.io/pypi/pyversions/Markdown.svg
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AtsushiSakai)
 
 Tensorflow Object detection Using Tensorflow object detection api to detect objects with the Model download from Model zoo and counting those object if it cross the adjustable line than send that picture to Telegram by Telegram bot api
