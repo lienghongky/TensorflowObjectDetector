@@ -65,8 +65,4 @@ License
 @[Lieng Hongky]
 
 
-**Free Software, Hell Yeah!**
-
-   [git-repo-url]: <https://github.com/lienghongky/TensorflowObjectDetector.git>
-   [Lieng Hongky]: <https://github.com/lienghongky>
  
